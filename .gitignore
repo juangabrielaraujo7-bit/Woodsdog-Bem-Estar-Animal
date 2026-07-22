@@ -1,0 +1,8 @@
+# Raw source photos (unoptimized originals, not used by the site)
+WhatsApp Image*.jpeg
+a880be57-e00b-4257-9f07-8ca392313549.png
+process-images.ps1
+
+# OS / editor
+.DS_Store
+Thumbs.db
